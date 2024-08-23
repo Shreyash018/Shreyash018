@@ -34,7 +34,7 @@
 - 📫 How to reach me **shindeshreyash23@gmail.com**
 
 <h5>
-  🔗 Know more About me on <a href="https://www.linkedin.com/in/shreyash-shinde-8500a2236/" target="_blank">LinkedIn</a>
+  🔗 Know more About me on <a href="https://shreyash3portfolio.mystrikingly.com/" target="_blank">Portfolio</a>
 </h5>
 
 <h3 align="left">Connect with me:</h3>
